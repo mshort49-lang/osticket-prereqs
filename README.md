@@ -18,7 +18,7 @@ This demonstration shows the installation of the open-source help desk ticketing
 
 <h2>Operating Systems Used </h2>
 
-- Windows 11</b> (PRO)
+- Windows 11</b> (25H2)
 
 <h2>List of Prerequisites</h2>
 
