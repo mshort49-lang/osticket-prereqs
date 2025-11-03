@@ -18,7 +18,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Operating Systems Used </h2>
 
-- Windows 11</b> (21H2)
+- Windows 11</b> (PRO)
 
 <h2>List of Prerequisites</h2>
 
@@ -46,7 +46,7 @@ To turn on CGI, go to the Control Panel. Open programs, check internet informati
 <img width="650" height="578" alt="image" src="https://github.com/user-attachments/assets/7d0345d5-be2c-402b-b9be-26a9f323d2fb" />
 </p>
 <p>
-GO to the osTicket in File Explorer. Double-click PHP manager to install. 
+Went to the osTicket-Installation-Files in File Explorer. Double-click PHP manager to install. 
 </p>
 <br />
 
@@ -55,7 +55,7 @@ GO to the osTicket in File Explorer. Double-click PHP manager to install.
 
 </p>
 <p>
-Go to the osTicket in File Explorer. Double-click IIS Rewrite to install.
+Went to the osTicket-Installation-Files in File Explorer. Double-click IIS Rewrite to install.
 </p>
 <br />
 
@@ -71,38 +71,41 @@ Opened File Explorer, go to the C drive. Right-click, go to New, click New Folde
 <img width="644" height="407" alt="image" src="https://github.com/user-attachments/assets/8b7acdf0-5525-425f-ab61-44c8b10280b9" />
 </p>
 <p>
-Go to the osTicket in File Explorer. Double-click Microsoft Visual C++ to install.
+Went to the osTicket-Installation-Files in File Explorer. Double-click Microsoft Visual C++ to install.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="653" height="439" alt="image" src="https://github.com/user-attachments/assets/fa9f606d-9dbb-4f0b-a9e6-758c94fdd8b5" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Went to the osTicket-Installation-Files in File Explorer. Double-click HeidiSQL to install.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="656" height="404" alt="image" src="https://github.com/user-attachments/assets/b7de1f32-fe43-4ca6-8bd6-dfa2db3b7407" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Went to the osTicket-Installation-Files in File Explorer. Double-click MySQL Server to install.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="658" height="606" alt="image" src="https://github.com/user-attachments/assets/9af72c1f-d281-436a-8a6a-06216d5474e9" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Went to IIS Manager, osTicket, PHP Manager, and clicked register new PHP version. Browsed File Explorer for the PHP file.
+</p>
+<br />
+
+<p>
+<img width="612" height="828" alt="image" src="https://github.com/user-attachments/assets/d75d5c80-9fd6-48ad-950f-6554b1e5d7be" />
+
+</p>
+<p>
+Opened IIS Manager, went to osTicket-VM, sites, Default Web Sites, osTicket File. Enabled PHP Extensions intl.dll, imap.dll, and opcache.dll. Filled out information to install osTicket.  
 </p>
 <br />
